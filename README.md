@@ -50,7 +50,5 @@ Zabbix, GLPI, Linux e Docker.
                                   ▼
                               Fechamento
 
-´´´text
-
 
 
